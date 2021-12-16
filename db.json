@@ -1,6 +1,6 @@
 {
   "messages": [
-    "text": "Welcome to the best barbershop WORLDWIDE."
+    { "text": "Welcome to the best barbershop WORLDWIDE." }
   ],
   "products": [
     { "productName": "Clay - Matný Jíl pro Suchý Efekt", "productManufacturer": "MR NATTY", "productSize": "100ml", "bestSeller": true, "imageUrl": "https://www.mrfox.cz/assets/products/251/5e0e6a1c0f-clay.jpg" },
