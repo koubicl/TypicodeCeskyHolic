@@ -1,14 +1,44 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "messages": [
+    "text": "Welcome to the best barbershop WORLDWIDE."
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "products": [
+    { "productName": "Clay - Matný Jíl pro Suchý Efekt", "productManufacturer": "MR NATTY", "productSize": "100ml", "bestSeller": true, "imageUrl": "https://www.mrfox.cz/assets/products/251/5e0e6a1c0f-clay.jpg" },
+    { "productName": "DUB - Lesklý Jíl pro Suchý Efekt", "productManufacturer": "MR NATTY", "productSize": "100ml", "bestSeller": true, "imageUrl": "https://www.mrfox.cz/assets/products/253/5a074c7fa2-mn-hc005.jpg"},   
+    { "productName": "Hermann", "productManufacturer": "Etat Libre d'Orange", "productSize": "100ml", "bestSeller": true, "imageUrl": "https://www.mrfox.cz/assets/products/468/616d8641b1-hermann-2.jpg"},
+    { "productName": "Les Fleurs du Dechet - I Am Trash", "productManufacturer": "Etat Libre d'Orange", "productSize": "100ml", "bestSeller": true, "imageUrl": "https://www.mrfox.cz/assets/products/469/616d86148c-les-fleurs-du-dechet---i-am-trash-2.jpg"},
+    { "productName": "Pánský peeling na Tvář", "productManufacturer": "MURDOCK", "productSize": "100ml", "bestSeller": false, "imageUrl": "https://www.mrfox.cz/assets/products/294/5edf6c4ec4-face-scrub.jpg" },
+    { "productName": "Mýdlo Pan drsňák", "productManufacturer": "Somerset Toiletry", "productSize": "200g", "bestSeller": false, "imageUrl": "https://www.mrfox.cz/assets/products/396/6065896d72-44321_somerset-toiletry-company-200g-mr-rugged.jpg"},
+    { "productName": "Štětka černá", "productManufacturer": "Mühle", "productSize": "", "bestSeller": false, "imageUrl": "https://www.mrfox.cz/assets/products/435/60ab9428ab-81k3.jpg" }
   ],
-  "profile": {
-    "name": "typicode"
+  "services": [
+    { "serviceName": "HOT TOWEL", "duration": "45 minut", "price": "Od 550,- Kč", "description": "Úprava vousů / Holení dohladka za použití horkého ručníku.", "imageUrl": "https://raw.githubusercontent.com/koubicl/MrFoxArt/main/hottowel.jpg" },
+    { "serviceName": "STŘIH", "duration": "45 minut", "price": "Od 550,- Kč", "description": "Stříhání vlasů od 3mm. Služba od 15-ti let.", "imageUrl": "https://raw.githubusercontent.com/koubicl/MrFoxArt/main/strih.jpg" },
+    { "serviceName": "ZERO FADE", "duration": "1 hodina", "price": "Od 650,- Kč", "description": "Stříhání vlasů s fadem z 0mm nebo stříhání delších vlasů. Služba od 15-ti let.", "imageUrl": "https://raw.githubusercontent.com/koubicl/MrFoxArt/main/zerofade.jpg" },
+    { "serviceName": "STŘIH + HOT TOWEL", "duration": "1 hodina 15 minut", "price": "Od 990,- Kč", "description": "Stříhání vlasů od 3mm a úprava vousů/holení dohladka s použitím horkého ručníku.", "imageUrl": "https://raw.githubusercontent.com/koubicl/MrFoxArt/main/strihhottowel.jpg" },
+    { "serviceName": "ZERO FADE + HOT TOWEL", "duration": "1 hodina 30 minut", "price": "Od 1 090,- Kč", "description": "Stříhání vlasů s fadem z 0mm nebo stříhání delších vlasů a úprava vousů/holení dohladka s použitím horkého ručníku.", "imageUrl": "https://raw.githubusercontent.com/koubicl/MrFoxArt/main/zerofadehottowel.jpg" },
+    { "serviceName": "PERFECT FOXMAN", "duration": "1 hodina 45 minut", "price": "Od 1 650,- Kč", "description": "3 služby v jedné. Stříhání vlasů z 0 nebo 3mm, úprava vousů/holení dohladka s použitím horkého ručníku a péče o tvář - čisticí gel, peeling, krém, oční sérum. Na závěr navonění parfémem Penhaligon's. Sklenička prémiové whisky, rumu, ginu.", "imageUrl": "https://raw.githubusercontent.com/koubicl/MrFoxArt/main/perfectfoxman.jpg" }
+  ],
+  "team": [
+    { "affiliate": "MR FOX - AZ TOWER", "name": "Daniel", "position": "Senior barber", "imageUrl": "https://www.mrfox.cz/assets/team-new/covers/daniel.jpg", "description": "Dan si poradí se všemi texturami a délkami vlasů, takže jeho zkušenosti s Vaší představou vytvoří dokonalý výsledek. Od svého vyučení se stříhání věnuje již třináctým rokem. Ve volném čase rád zdokonaluje svou postavu ve fitku a je nadšencem rychlých kol." },
+    { "affiliate": "MR FOX - AZ TOWER", "name": "Tom", "position": "Barber", "imageUrl": "https://www.mrfox.cz/assets/team-new/covers/tom.jpg", "description": "Tom má rád moderní barber střihy s fadem z 0mm, s perfektním začištěním. Vaše vousy vyladí k dokonalosti. Od vyučení se stříhání věnuje třetím rokem." },
+    { "affiliate": "MR FOX - AZ TOWER", "name": "Rastislav", "position": "Management", "imageUrl": "https://www.mrfox.cz/assets/team-new/covers/rastislav.jpg", "description": "Nadšenec parfémů a skvělých služeb, které se vám snaží se svým týmem co nejlépe zprostředkovat. Dotazy, pochvaly a připomínky pište na rastislav.velecky@gmail.com" },
+    { "affiliate": "MR FOX - NOVOBRANSKÁ", "name": "David", "position": "Head barber", "imageUrl": "https://www.mrfox.cz/assets/team-new/covers/david.jpg", "description": "David skvěle ovládá změny střihů a úpravy vousů, to vše s humorem jemu vlastním. Rád Vám poradí s následnou péčí. Od svého vyučení stříhá již desátým rokem.Ve volném čase nedá svůj Playstation z ruky, takže fanoušci her ihned najdou společné téma." },
+    { "affiliate": "MR FOX - NOVOBRANSKÁ", "name": "Denisa", "position": "Barber", "imageUrl": "https://www.mrfox.cz/assets/team-new/covers/denisa.jpg", "description": "Denisa skvěle ovládá moderní střihy s fadem z 0mm a vousy jsou v jejím podání také dokonalé. Od svého vyučení se intenzivně věnuje stříhání druhým rokem. Na Novobranské ji najdete stříhat v nové části holičství." },
+    { "affiliate": "MR FOX - NOVOBRANSKÁ", "name": "Tom", "position": "Barber", "imageUrl": "https://www.mrfox.cz/assets/team-new/covers/tom.jpg", "description": "Tom má rád moderní barber střihy s fadem z 0mm, s perfektním začištěním. Vaše vousy vyladí k dokonalosti. Od vyučení se stříhání věnuje třetím rokem." },
+    { "affiliate": "MR FOX - NOVOBRANSKÁ", "name": "Mirek", "position": "Recepce", "imageUrl": "https://www.mrfox.cz/assets/team-new/covers/mirek.jpg", "description": "Mirek Vám rád vytvoří další termín návštěvy, poradí s výběrem vhodné kosmetiky, nalije rum nebo vybere skvělý parfém. Ve volném čase relaxuje u chytání ryb a účastní se historických vojenských bitev." },
+    { "affiliate": "MR FOX - NOVOBRANSKÁ", "name": "Rastislav", "position": "Management", "imageUrl": "https://www.mrfox.cz/assets/team-new/covers/rastislav.jpg", "description": "Nadšenec parfémů a skvělých služeb, které se vám snaží se svým týmem co nejlépe zprostředkovat. Dotazy, pochvaly a připomínky pište na rastislav.velecky@gmail.com" }
+  ],
+  "contacts": {
+    "tel": "+420542212472",
+    "email": "info@mrfox.cz",
+    "facebook": "https://www.facebook.com/mrfox.cz",
+    "instagram": "https://www.instagram.com/mrfoxbrno",
+    "openingHours": "po–pá 9:00 – 19:00",
+    "affiliates": [
+      { "name": "MR FOX - NOVOBRANSKÁ", "address": "Novobranská 532, Brno-město, 602 00 Brno-střed" },
+      { "name": "MR FOX - AZ TOWER", "address": "AZ TOWER, Pražákova 1008/69, 639 00 Brno-střed" }
+    ]
   }
+  
 }
