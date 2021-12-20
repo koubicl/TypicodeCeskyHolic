@@ -7,11 +7,11 @@
    "products":{
       "products":[
          {
-            "productName":"Clay - Matný Jíl pro Suchý Efekt",
-            "productManufacturer":"MR NATTY",
-            "productSize":"100ml",
+            "productName":"Sea Salt Spray - Slaná Voda do Vlasů",
+            "productManufacturer":"MURDOCK",
+            "productSize":"150ml",
             "bestSeller":true,
-            "imageUrl":"https://www.mrfox.cz/assets/products/251/5e0e6a1c0f-clay.jpg"
+            "imageUrl":"https://www.mrfox.cz/assets/products/254/5c541f4460-sea-salt-spray.jpg"
          },
          {
             "productName":"DUB - Lesklý Jíl pro Suchý Efekt",
@@ -164,6 +164,8 @@
             "name":"MR FOX - AZ TOWER",
             "address":"AZ TOWER, Pražákova 69, 639 00 Brno-střed"
          }
-      ]
+      ],
+      "web": "https://www.mrfox.cz/",
+      "eshop": "https://www.mrfox.cz/eshop"
    }
 }
