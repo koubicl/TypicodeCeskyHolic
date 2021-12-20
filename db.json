@@ -145,7 +145,7 @@
             "name":"Rastislav",
             "position":"Management",
             "imageUrl":"https://www.mrfox.cz/assets/team-new/covers/rastislav.jpg",
-            "description":"Nadšenec parfémů a skvělých služeb, které se vám snaží se svým týmem co nejlépe zprostředkovat. Dotazy, pochvaly a připomínky pište na <a href= "mailto:rastislav.velecky@gmail.com ? MrFox - dotaz, pochvala, připomínka" > rastislav.velecky@gmail.com</a>"
+            "description":"Nadšenec parfémů a skvělých služeb, které se vám snaží se svým týmem co nejlépe zprostředkovat. Dotazy, pochvaly a připomínky pište na <a href=\"mailto:rastislav.velecky@gmail.com ? MrFox - dotaz, pochvala, připomínka\" > rastislav.velecky@gmail.com</a>"
          }
       ]
    },
