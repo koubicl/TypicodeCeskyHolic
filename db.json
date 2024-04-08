@@ -1,40 +1,40 @@
 {
-      "services":[
-         {
-            "serviceName":"Vlasy 45 minut",
-            "duration":"45 minut",
-            "price":1900,
-         },
-         {
-            "serviceName":"Vousy 60 minut",
-            "duration":"60 minut",
-            "price":900,
-         },
-         {
-            "serviceName":"Vousy 45 minut",
-            "duration":"45 minut",
-            "price":750,
-         },
-         {
-            "serviceName":"Vlasy + vousy/péče o tvář 75 minut",
-            "duration":"75 minut",
-            "price":1300,
-         },
-         {
-            "serviceName":"Vlasy + vousy/péče o tvář 90 minut",
-            "duration":"90 minut",
-            "price":1450,
-         },
-         {
-            "serviceName":"Vlasy + vousy + péče o tvář 105 minut",
-            "duration":"105 minut",
-            "price":1900,
-         },
-      ],
-      "teamMembers":[
-         {
-            "name":"Daniel",
-            "couponReferenceAt": "Dana",
-         },
-      ],
+   "services":[
+      {
+         "serviceName":"Vlasy 45 minut",
+         "duration":"45 minut",
+         "price":1900
+      },
+      {
+         "serviceName":"Vousy 60 minut",
+         "duration":"60 minut",
+         "price":900
+      },
+      {
+         "serviceName":"Vousy 45 minut",
+         "duration":"45 minut",
+         "price":750
+      },
+      {
+         "serviceName":"Vlasy + vousy/péče o tvář 75 minut",
+         "duration":"75 minut",
+         "price":1300
+      },
+      {
+         "serviceName":"Vlasy + vousy/péče o tvář 90 minut",
+         "duration":"90 minut",
+         "price":1450
+      },
+      {
+         "serviceName":"Vlasy + vousy + péče o tvář 105 minut",
+         "duration":"105 minut",
+         "price":1900
+      }
+   ],
+   "teamMembers":[
+      {
+         "name":"Daniel",
+         "couponReferenceAt":"Dana"
+      }
+   ]
 }
