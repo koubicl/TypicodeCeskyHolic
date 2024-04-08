@@ -36,5 +36,8 @@
          "name":"Daniel",
          "couponReferenceAt":"Dana"
       }
+   ],
+   "validity":[
+      "durationInDays": 160
    ]
 }
