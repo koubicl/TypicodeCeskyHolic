@@ -37,7 +37,9 @@
          "couponReferenceAt":"Dana"
       }
    ],
-   "validity":[
-      "durationInDays": 160
+   "daysDuration":[
+      180,
+      120,
+      90,
    ]
 }
